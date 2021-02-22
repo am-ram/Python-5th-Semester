@@ -1,0 +1,7 @@
+101	Raja	D	10000
+102	Elango	D	20000
+107	John	D	30000
+109	Murugan	D	40000
+101	Raja	W	2000
+107	John	D	40000
+109	Murugan	W	1000
