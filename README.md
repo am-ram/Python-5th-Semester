@@ -6,3 +6,8 @@ The exercises have been split into 3 groups.<br>
 3. Module - 3
 <br>
 
+Module 1 :- Data types,Operators and Expressions,Input and Output Statements,Control Structures,Selective and Repetitive structures.<br>
+<br>
+Module 2 :- Strings, Lists and dictionaries. <br>
+<br>
+Module 3 :- Functions, File Handling, Data Visualization, Basic ML. 
