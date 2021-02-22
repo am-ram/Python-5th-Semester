@@ -11,3 +11,5 @@ Module 1 :- Data types,Operators and Expressions,Input and Output Statements,Con
 Module 2 :- Strings, Lists and dictionaries. <br>
 <br>
 Module 3 :- Functions, File Handling, Data Visualization, Basic ML. 
+
+## NOTE : You can find the files used in these questions under the RequiredFiles folder.
