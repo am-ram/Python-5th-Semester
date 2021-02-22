@@ -1,0 +1,6 @@
+SmartTV                 Samsung         30000
+SmartTV                 Sony            80000
+Mobile                  Samsung         10000
+Mobile                  Nokia           12000 
+Laptop                  HP              50000
+Laptop                  DELL            60000
